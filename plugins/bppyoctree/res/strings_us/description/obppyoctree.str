@@ -1,0 +1,34 @@
+STRINGTABLE Obppyoctree
+{
+	Obppyoctree                     "BP Py Octree";
+
+    SCRIPTS_GROUP                   "Scripts";
+    ADD_NULLS_COUNT                 "Null Count";
+    ADD_NULLS_RADIUS                "Radius";
+    ADD_NULLS_SEED                  "Seed";
+    ADD_NULLS_BUTTON                "Add Nulls";
+    REMOVE_NULLS_BUTTON             "Remove Nulls";
+
+    OCTREE_GROUP                    "Octree";
+    OCTREE_MAX_DEPTH                "Max Depth";
+    OCTREE_MAX_NODE_ELEMENTS        "Max Elements Per Node";
+    OCTREE_RAD                      "Radius";
+
+
+    QUERY_GROUP                     "Query";
+    QUERY_OBJECT_LINK               "Query Object Link";
+    QUERY_RAD                       "Radius";
+
+
+    DISPLAY_GROUP                   "Display";
+    DISPLAY_DRAW_NODES              "Draw Octree Nodes";
+    DISPLAY_NODE_COLOR              "Octree Node Color";
+    DISPLAY_SELECTED_NODE_COLOR     "Query Set Octree Node Color";
+    DISPLAY_ELEMENT_COLOR           "Element Color";
+    DISPLAY_SELECTED_ELEMENT_COLOR  "Query Set Element Color";
+    DISPLAY_CLOSEST_ELEMENT_COLOR   "Closest Element Color";
+    DISPLAY_QUERY_BOX_COLOR         "Query Box Color";
+    DISPLAY_ELEMENT_RADIUS          "Element Radius";
+    DISPLAY_SELECTED_ELEMENT_RADIUS "Query Set Element Radius";
+    DISPLAY_CLOSEST_ELEMENT_RADIUS  "Closest Element Radius";
+}
